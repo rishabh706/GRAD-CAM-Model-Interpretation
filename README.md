@@ -4,7 +4,9 @@ Model Interpretability is very crucial to understand the behaviour of the model 
 
 # How to Use it
 
-To use simply pass the following parameters to the class object GradCaM and run the model_explainer.py file
+First install the necessary packages by typing command ```pip install -r requirements.txt```
+
+Now simply pass the following parameters to the class object GradCaM and run the model_explainer.py python file
 
 # Parameters to Model Object
 1. image:str
